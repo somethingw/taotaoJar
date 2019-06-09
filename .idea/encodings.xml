@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generatorSqlmapCustom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manage/manage-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manage/manage-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manage/manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manage/manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisgenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restful" charset="UTF-8" />
+  </component>
+</project>

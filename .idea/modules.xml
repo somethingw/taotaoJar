@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage.iml" filepath="$PROJECT_DIR$/manage/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-mapper/manage-mapper.iml" filepath="$PROJECT_DIR$/manage/manage-mapper/manage-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-pojo/manage-pojo.iml" filepath="$PROJECT_DIR$/manage/manage-pojo/manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-service/manage-service.iml" filepath="$PROJECT_DIR$/manage/manage-service/manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage-web/manage-web.iml" filepath="$PROJECT_DIR$/manage/manage-web/manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisgenerator/mybatisgenerator.iml" filepath="$PROJECT_DIR$/mybatisgenerator/mybatisgenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
+    </modules>
+  </component>
+</project>
